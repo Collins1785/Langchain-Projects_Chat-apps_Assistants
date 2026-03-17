@@ -1,0 +1,21 @@
+Ask me anything: what is the use of having RAG in Gen AI
+AI says: RAG stands for Retrieval-Augmented Generation. It's a type of architecture used in Generative AI models, particularly in transformer-based models like BART and T5.
+
+The primary use of RAG is to leverage the strengths of both retrieval-based and generative models. Here's how it works:       
+
+1. **Retrieval**: The model first retrieves a set of relevant documents or passages from a large corpus of text based on the input query or prompt.
+2. **Generation**: The retrieved passages are then used to inform the generation of the final output, which can be a response, summary, or text completion.
+
+The benefits of RAG include:
+
+1. **Improved accuracy**: By leveraging the strengths of retrieval-based models, RAG can provide more accurate and relevant responses.
+2. **Reduced hallucination**: RAG can reduce the likelihood of the model "hallucinating" or generating text that is not supported by the input data.
+3. **Increased efficiency**: RAG can be more efficient than traditional generative models, as it only generates text based on the retrieved passages.
+
+RAG is particularly useful in applications such as:
+
+1. **Question answering**: RAG can be used to retrieve relevant passages and generate accurate answers.
+2. **Text summarization**: RAG can be used to summarize long documents by retrieving relevant passages and generating a concise summary.
+3. **Dialogue systems**: RAG can be used to generate more accurate and relevant responses in dialogue systems.
+
+Overall, RAG is a powerful architecture that combines the strengths of retrieval-based and generative models to produce more accurate and efficient results.
